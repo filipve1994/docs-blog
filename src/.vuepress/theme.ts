@@ -28,12 +28,6 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
-
   metaLocales: {
     editLink: "Edit this page on GitHub",
   },
